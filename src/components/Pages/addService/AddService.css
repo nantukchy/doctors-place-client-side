@@ -1,0 +1,17 @@
+.add-srvice form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.add-srvice form input, textarea{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    width: 90%;
+    border: 2px solid cadetblue;
+    background-color: aquamarine;
+}
+.add-srvice form input{
+    width: 100%;
+}
